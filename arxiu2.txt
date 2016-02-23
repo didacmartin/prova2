@@ -1,2 +1,4 @@
 arxiu2
 Canvi que afecta a la branca testeo
+
+Canvi 2 per tenir mes canvis de diferècia amb la branca pare
